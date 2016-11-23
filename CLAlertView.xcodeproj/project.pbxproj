@@ -14,7 +14,7 @@
 		F334669D1CD47626001BD8BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F334669C1CD47626001BD8BC /* Assets.xcassets */; };
 		F33466A01CD47626001BD8BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F334669E1CD47626001BD8BC /* LaunchScreen.storyboard */; };
 		F33466A91CD4763F001BD8BC /* CLAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = F33466A81CD4763F001BD8BC /* CLAlertView.m */; };
-		F33D2D0B1CDDC4FE00DDA83C /* README in Resources */ = {isa = PBXBuildFile; fileRef = F33D2D0A1CDDC4FE00DDA83C /* README */; };
+		F33D2D0B1CDDC4FE00DDA83C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F33D2D0A1CDDC4FE00DDA83C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +30,7 @@
 		F33466A11CD47626001BD8BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F33466A71CD4763E001BD8BC /* CLAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLAlertView.h; sourceTree = "<group>"; };
 		F33466A81CD4763F001BD8BC /* CLAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLAlertView.m; sourceTree = "<group>"; };
-		F33D2D0A1CDDC4FE00DDA83C /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		F33D2D0A1CDDC4FE00DDA83C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 				F334669E1CD47626001BD8BC /* LaunchScreen.storyboard */,
 				F33466A11CD47626001BD8BC /* Info.plist */,
 				F33466901CD47626001BD8BC /* Supporting Files */,
-				F33D2D0A1CDDC4FE00DDA83C /* README */,
+				F33D2D0A1CDDC4FE00DDA83C /* README.md */,
 			);
 			path = CLAlertView;
 			sourceTree = "<group>";
@@ -144,7 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F33D2D0B1CDDC4FE00DDA83C /* README in Resources */,
+				F33D2D0B1CDDC4FE00DDA83C /* README.md in Resources */,
 				F33466A01CD47626001BD8BC /* LaunchScreen.storyboard in Resources */,
 				F334669D1CD47626001BD8BC /* Assets.xcassets in Resources */,
 				F334669B1CD47626001BD8BC /* Main.storyboard in Resources */,
