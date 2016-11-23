@@ -114,6 +114,7 @@
         button.backgroundColor = [UIColor whiteColor];
         [button setTitle:@"取消" forState:UIControlStateNormal];
         [button setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
+        [button setAdjustsImageWhenHighlighted:YES];
         [button addTarget:self action:@selector(dissMissView) forControlEvents:UIControlEventTouchUpInside];
         [self.backView addSubview:button];
         _disSelectButton = button;
